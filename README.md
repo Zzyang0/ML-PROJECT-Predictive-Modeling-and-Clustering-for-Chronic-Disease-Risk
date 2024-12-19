@@ -1,7 +1,7 @@
 Hi Professor Ying Cui, and GSIs Natalia and David,  
 
 We have uploaded the following to this repository:
-1. Jupyter Notebook (.ipynb) files: four files for all relevant models under the `notebook` folder 
+1. Jupyter Notebook (.ipynb) files: 5 files for all relevant models under the `notebook` folder 
 2. Data (.XPT, .CSV) files: mulitple files under the `data` folder
 
 Please have a look.  
